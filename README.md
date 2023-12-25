@@ -62,7 +62,7 @@ Each image processing technique is accompanied by insightful comments, fostering
 
 3. Run the app.
    ```bash
-   streamlit run app.py
+   streamlit run app2.py
    ```
 
 ## Usage
