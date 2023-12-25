@@ -40,11 +40,7 @@ Experiment with various thresholding techniques and segmentation methods:
 
 Adjust filter parameters in real-time and visualize the immediate effects on your images. Enjoy a seamless and user-friendly experience.
 
-### 5. Aesthetics and Theming
-
-The app features a modern and visually appealing dark grey theme, enhancing the overall user experience.
-
-### 6. Educational Insights
+### 5. Educational Insights
 
 Each image processing technique is accompanied by insightful comments, fostering a deeper understanding of the underlying principles.
 
